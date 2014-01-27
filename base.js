@@ -15,8 +15,8 @@ var SERVICE_AREAS = {
 		node: NODES.police,
 		table: TABLES.police
 	},
-	'311_Mobile': {
-		id: '311_Mobile',
+	'SA_PHILLYRISING': {
+		id: 'SA_PHILLYRISING',
 		node: NODES.phillyrising,
 		table: TABLES.phillyrising
 	}
